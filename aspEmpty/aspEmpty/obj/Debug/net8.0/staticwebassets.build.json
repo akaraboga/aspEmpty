@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "hkBsSLrhM9vS9Uaf1Xbg4yKH1wKN5i5XzABQtkKhPNc=",
+  "Source": "aspEmpty",
+  "BasePath": "_content/aspEmpty",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "aspEmpty\\wwwroot",
+      "Source": "aspEmpty",
+      "ContentRoot": "C:\\Users\\karab\\OneDrive\\Masaüstü\\Patika pratik\\aspEmpty\\aspEmpty\\wwwroot\\",
+      "BasePath": "_content/aspEmpty",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\karab\\OneDrive\\Masaüstü\\Patika pratik\\aspEmpty\\aspEmpty\\wwwroot\\style.css",
+      "SourceId": "aspEmpty",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\karab\\OneDrive\\Masaüstü\\Patika pratik\\aspEmpty\\aspEmpty\\wwwroot\\",
+      "BasePath": "_content/aspEmpty",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
